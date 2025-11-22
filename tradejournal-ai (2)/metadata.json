@@ -1,0 +1,4 @@
+{
+  "name": "TradeJournal AI",
+  "description": "A professional trading journal application to track entries, exits, risk-to-reward ratios, and entry models. Features AI-powered trade analysis using Gemini Vision to review chart screenshots and generate insights on win rates and performance."
+}
